@@ -36,16 +36,14 @@ glTF model
 → final rendered scene
 ```
 ---
-## Demo Output
+## Output
 
 ![Vulkan UFO Demo](assets/ufo.png)
 
 ---
 
-## Demo Video
+## Video Explanation
 
-<video src="assets/ufovulkanexplain.mp4" controls width="800">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/e8dd38f4-c4a7-4801-8987-3a6422b023a2
 
-[View demo video](assets/ufovulkanexplain.mp4)
+
