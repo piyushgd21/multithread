@@ -34,3 +34,18 @@ glTF model
 → command buffer recording
 → draw call
 → final rendered scene
+```
+---
+## Demo Output
+
+![Vulkan UFO Demo](assets/ufo.png)
+
+---
+
+## Demo Video
+
+<video src="assets/ufovulkanexplain.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
+
+[View demo video](assets/ufovulkanexplain.mp4)
